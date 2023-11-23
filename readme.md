@@ -2,7 +2,7 @@
 
 ## Overview
 
-SPR (SCAN PageRank) is the implementation code for the research paper titled "A Community-Based Active Learning for Graph Neural Networks". This project focuses on leveraging graph neural networks for community detection and active learning in networked data, and is designed to run on Google Colab.
+SPR (SCAN PageRank) is the implementation code for the research paper titled "A Community-Based Active Learning for Graph Neural Networks". This project focuses on active learning for graph structured data, and is designed to run on Google Colab. Thus, avoiding library conflict for reproduceability
 
 ## Key Features
 
